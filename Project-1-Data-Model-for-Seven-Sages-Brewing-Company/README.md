@@ -76,3 +76,43 @@ We're on the homes stretch! Next we just need to create a visualization to summa
 The basic version of this report will have two tabs, one summarizing sales by customer and customer type across quarters. The second will simply summarize the percentages of gross profit and unit sales by product.
 
 In both instances, the CFO would like a very brief Executive Summary at the bottom of the tab.
+
+# My Project
+
+### Undertanding the data
+The provided datasets consist of diverse data types, which were imported, cleaned, and combined to create a Data Model and Power BI report. The objective was to present the analysis to the CFO of Seven Sages Brewing Company in an easily accessible format for quick review and analysis. The datasets included `Monthly Sales logs` folder with multiple Excel files based on months that required merging into a single file, `CFO Metrics Tracker.xlsx`, `Customers List (as of FY2021).txt`, `SSBC Product Offerings.pdf`, and `USD-CAD Exchange Rates.csv` files. All of these datasets were cleaned using power query.
+
+### Creating the tables 
+- **`Monthly Sales Logs`** had 12 excel monthly sales files that were merged into one **`Monthly Sales`** table.
+- **`SSBC Product Offerings`** and **`CFO Metrics Tracker`** files were combined, cleaned and transformed into **`Products`** table. 
+- **`USD-CAD Exchange Rate`** csv file was cleaned and tranformed into **`Currency`** table.
+- **`Customer List (as of FY2021)`** text document was cleaned and transformed into **`Customer List`** table.
+- A dynamic **`Date`** table was generated using power query through the creation of a Start and End date function that monitors the min and max dates of monthly sales.
+
+### Creating the relationships (Data Model) 
+Once the data had been imported, cleaned, and formatted, the subsequent task involved establishing the relationships between the tables, which would enable us to generate the desired reports.
+
+![Data Model](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project-1-Data-Model-for-Seven-Sages-Brewing-Company/Images/Data%20Model.png)
+
+### Creating DAX Functions 
+In order to construct the report that would answer certain inquiries, it was necessary to generate additional measures and columns like.
+
+- Cost of Sales USD
+- GPM (Gross Profit Margin)
+- Gross Profit by Product %
+- Total Profit
+- Total Sales in CAD
+- Total Sales in USD
+- Unit Sales by Product %
+- Gross Profit per Serving 
+
+### Building the Report
+Created multiple tabs carrying a report showing insights to Seven Sages Brewing Company's data for the CFO to review and anaylyze. These tabs are namely **`Sales by GPM`**, **`Gross Profit and Unit Sales`**, **`Product Type and Avg Gross Profit`**, and **`Product Growth`**
+
+![Sales by GPM](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project-1-Data-Model-for-Seven-Sages-Brewing-Company/Images/Sales%20by%20GPM.png)
+
+![Gross Profit and Unit Sales](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project-1-Data-Model-for-Seven-Sages-Brewing-Company/Images/Gross%20Profit%20and%20Unit%20Sales.png)
+
+![Product Type and Avg Gross Profit](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project-1-Data-Model-for-Seven-Sages-Brewing-Company/Images/Product%20Type%20and%20Avg%20Gross%20Profit.png)
+
+![Product Growth](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project-1-Data-Model-for-Seven-Sages-Brewing-Company/Images/Product%20Growth.png)
