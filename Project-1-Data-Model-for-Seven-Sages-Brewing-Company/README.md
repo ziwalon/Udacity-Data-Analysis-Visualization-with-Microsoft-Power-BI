@@ -110,13 +110,17 @@ In order to construct the report that would answer certain inquiries, it was nec
 A range of tabs was produced to present a detailed report on Seven Sages Brewing Company's data for review and analysis by the CFO. These tabs include `**Sales by GPM**`, `**Gross Profit and Unit Sales**`, `**Product Type and Avg Gross Profit**`, `**and Product Growth**`.
 
 - **Sales and GPM (Gross Profit Margin)**
+
 ![Sales and GPM](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project-1-Data-Model-for-Seven-Sages-Brewing-Company/Images/Sales%20by%20GPM.png)
 
 - **Gross Profit and Unit Sales**
+
 ![Gross Profit and Unit Sales](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project-1-Data-Model-for-Seven-Sages-Brewing-Company/Images/Gross%20Profit%20and%20Unit%20Sales.png)
 
 - **Product Type and Avg Gross Profit**
+
 ![Product Type and Avg Gross Profit](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project-1-Data-Model-for-Seven-Sages-Brewing-Company/Images/Product%20Type%20and%20Avg%20Gross%20Profit.png)
 
 - **Product Growth**
+
 ![Product Growth](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project-1-Data-Model-for-Seven-Sages-Brewing-Company/Images/Product%20Growth.png)
