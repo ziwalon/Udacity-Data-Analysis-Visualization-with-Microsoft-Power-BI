@@ -7,9 +7,9 @@ You work as a business intelligence analyst for **Waggle**, a startup that makes
 
 This success has led Waggle’s CEO to push for a feline version but there are concerns about its viability. For this reason, the product team distributed 1,000 Lapcat prototypes for field testing. Now, after months of data collection, **you have been tasked with delivering a boardroom-ready Power BI report that tells the story of how the Lapcat data compares to findings from the dog collar Lapdog devices**. You’re excited because your work will be presented at the highest levels of the company and will either help convince the CEO that Lapcat is the next big thing or a costly mistake to be avoided.
 
-![Lapdog and Lapcat Logos](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project%202%20Power%20BI%20Report%20for%20Waggle/marketing_collateral/lapdog_logo_transparent_blue.png?raw=true) 
+![Lapdog and Lapcat Logos](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project-2-Power-BI-Report-for-Waggle/marketing_collateral/lapdog_logo_transparent_blue.png) 
 ### **Vs.** 
-![Lapdog and Lapcat Logos](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project%202%20Power%20BI%20Report%20for%20Waggle/marketing_collateral/lapcat_logo_transparent_pink.png?raw=true)
+![Lapdog and Lapcat Logos](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project-2-Power-BI-Report-for-Waggle/marketing_collateral/lapcat_logo_transparent_pink.png)
 
                                     Lapdog and Lapcat Logos
 
@@ -24,7 +24,7 @@ This success has led Waggle’s CEO to push for a feline version but there are c
 
 A data model has already been provided for you in the Power BI file, as well as a variety of Waggle marketing images and branding guidelines. **Your report should demonstrate best practices in clean layout design and color use, utilize at least 7 different Power BI visualizations, include buttons for navigation between pages and/or bookmarks, and satisfy the business requests stated above.**
 
-![Waggle Logo](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project%202%20Power%20BI%20Report%20for%20Waggle/marketing_collateral/waggle_logo_blue.png?raw=true) 
+![Waggle Logo](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project-2-Power-BI-Report-for-Waggle/marketing_collateral/waggle_logo_blue.png) 
 
                                             Waggle Logo
 
@@ -46,7 +46,7 @@ Make sure you have completed all preliminary tasks before starting your report:
 - Download the provided Waggle marketing collateral attached to the repository
 - Download the provided starter.pbix file that contains the Waggle dataset attached to the repository
 
-![Waggle Branding Guidelines and color palette](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project%202%20Power%20BI%20Report%20for%20Waggle/marketing_collateral/color_palette.png?raw=true) 
+![Waggle Branding Guidelines and color palette](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Project-2-Power-BI-Report-for-Waggle/marketing_collateral/color_palette.png) 
 
                         Waggle Branding Guidelines and color palette
 
