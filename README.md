@@ -42,4 +42,4 @@ An online national clothing chain needs your help creating a targeted marketing 
 
 ## Certificate of Completion
 
-![Certificate of Completion](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/Market-Analysis-for-National-Clothing-Company-Report-Summary.png)
+![Certificate of Completion](https://github.com/ziwalon/Udacity-Data-Analysis-Visualization-with-Microsoft-Power-BI/blob/main/Data-Analysis-and-Visualization-with-Microsoft-PBI-Certificate.png)
